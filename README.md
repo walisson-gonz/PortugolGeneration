@@ -6,7 +6,7 @@
 <br><br><br><br><br>
 
 <div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walisson-gonz&show_icons=true&locale=en&theme=dark" alt="walisson-gonz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walisson-gonz&show_icons=true&locale=en&theme=dark" alt="walisson-gonz" /></p></div>
   
 🖥 Linkedin: [Walisson Gonzales](https://www.linkedin.com/in/walisson-gonzales/)
 
