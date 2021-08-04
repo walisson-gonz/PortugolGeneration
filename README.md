@@ -3,7 +3,7 @@
 
 <img align="right" width="400px" src="https://i.imgur.com/2ImIWl3.png">
 
-<br><br><br><br><br>
+<br>
 
 <div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walisson-gonz&show_icons=true&locale=en&theme=dark" alt="walisson-gonz" /></p></div>
@@ -14,7 +14,7 @@
 
 📫 Caso queira me mandar um e-mail: **walisson.gonzales@gmail.com**
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 <h2 align="center">Languages and Tools:</h2>
