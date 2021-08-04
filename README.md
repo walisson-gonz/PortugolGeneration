@@ -7,11 +7,12 @@
 
 <div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walisson-gonz&show_icons=true&locale=en&theme=dark" alt="walisson-gonz" /></p></div>
-  
+<br><br>
+<div>
 🖥 Linkedin: [Walisson Gonzales](https://www.linkedin.com/in/walisson-gonzales/)
 
 📫 Caso queira me mandar um e-mail: **walisson.gonzales@gmail.com**
-
+</div>
 <br><br><br><br><br>
 
 
