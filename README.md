@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Walisson Gonzales. 👾</h1>
 <h2 align="center">Desenvolvedor Web Full Stack</h2>
 
-<img align="right" width="400px" src="https://i.imgur.com/2ImIWl3.png">
+//<img align="right" width="400px" src="https://i.imgur.com/2ImIWl3.png">
 
 <br><br>
 
