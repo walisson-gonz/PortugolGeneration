@@ -16,7 +16,7 @@
 📫 Caso queira me mandar um e-mail: **walisson.gonzales@gmail.com**
 
 
-
+<br><br>
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center" style="background-color: white; border-radius: 5px; border: 1px solid; padding: 5px"> <a href="https://angular.io" target="_blank"> 
