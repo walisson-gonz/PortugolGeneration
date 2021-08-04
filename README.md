@@ -4,7 +4,6 @@
 <img align="right" width="400px" src="https://i.imgur.com/2ImIWl3.png">
 
 <br><br><br><br><br>
-🔭 Trabalhando atualmente na Generation Brazil como **Tech-Lead Front-End (HTML/CSS/JS/Angular)**
 
 🖥 Linkedin: [Walisson Gonzales](https://www.linkedin.com/in/walisson-gonzales/)
 
