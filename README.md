@@ -3,7 +3,9 @@
 
 Olá, tenho 21 anos, acabei de me formar pela Generation Brazil como Full Stack, minha carreira como desenvolvedor começa agora!
 <br>
+
 🖥 Linkedin: [Walisson Gonzales](https://www.linkedin.com/in/walisson-gonzales/) 
+<br>
 📫 Caso queira me mandar um e-mail: **walisson.gonzales@gmail.com**
 
 <br>
