@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Walisson Gonzales. 👾</h1>
 <h2 align="center">Desenvolvedor Web Full Stack</h2>
 
-Olá, tenho 21 anos, acabei de me formar pela Generation Brazil como Full Stack. Minha carreira como desenvolvedor começa agora!
+Olá, tenho 22 anos, formado pela Generation Brazil como Dev Full Stack. Minha carreira como desenvolvedor começa agora!
 
 <br>
 
